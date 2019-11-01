@@ -1,63 +1,40 @@
 # Vino
-VinoClasificadoresCross.ipynb
-1--------------------------------------------------
+### VinoClasificadoresCross.ipynb
 vino.csv
 diferentes clasificadores
 validacion cruzada de 5
 cross_val_score
 
-
-VinoClasificadoresKFold.ipynb
-2--------------------------------------------------
-vino.csv
-diferentes clasificadores
-validacion cruzada de 5
-KFold
-
-
-VinoKMeans.ipynb
-3--------------------------------------------------
+### VinoKMeans.ipynb
 vino2.csv
 k-means
 
-
-VinoMLP2TrainTest.ipynb
-4--------------------------------------------------
+### VinoMLP2TrainTest.ipynb
 vino.csv
 MLP con 100 neuronas y tanh
 matriz de confusion
 
-
-VinoMLPCrossFacil.ipynb
-5--------------------------------------------------
+### VinoMLPCrossFacil.ipynb
 MLP
 validacion cruzada de 5
 cross_val_score
 
-
-VinoMLPKerasScikitLearnCV.ipynb
-6--------------------------------------------------
+### VinoMLPKerasScikitLearnCV.ipynb
 vino.csv
 MLP-Keras(wrappers.scikit_learn)
 validacion cruzada de 5
 cross_val_score
 
-
-VinoMLPKerasStratified.ipynb
-7--------------------------------------------------
+### VinoMLPKerasStratified.ipynb
 vino.csv
 MLP-Keras
 validacion cruzada de 5
 StratifiedKFold
 (chido)
 
-
-VinoMLPKerasTrainTestFacil.ipynb
-8--------------------------------------------------
+### VinoMLPKerasTrainTestFacil.ipynb
 MLP-Keras
 Grafica del accuracy
 
-
-VinoMLPTrainTestFacil.ipynb
-9--------------------------------------------------
+### VinoMLPTrainTestFacil.ipynb
 MLP
