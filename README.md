@@ -19,6 +19,11 @@ MLP
 validacion cruzada de 5
 cross_val_score
 
+## VinoMLPKerasPreProcesamientoBN.ipynb
+MLP-Keras
+Escalamiento de los datos de entrada a la red neuronal con Batch Normalization
+**(Este da los mejores resultados)**
+
 ### VinoMLPKerasScikitLearnCV.ipynb
 vino.csv
 MLP-Keras(wrappers.scikit_learn)
@@ -30,7 +35,7 @@ vino.csv
 MLP-Keras
 validacion cruzada de 5
 StratifiedKFold
-(chido)
+**(chido)**
 
 ### VinoMLPKerasTrainTestFacil.ipynb
 MLP-Keras
